@@ -1,4 +1,4 @@
-# Optimizer Visualizer — CS 566
+# Optimizer Visualizer
 
 An interactive Streamlit app for exploring how different optimization algorithms behave on common loss surfaces used in machine learning and numerical optimization.
 
